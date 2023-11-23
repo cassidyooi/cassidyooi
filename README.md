@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Cassidy</h1>
 <h3 align="center">A data enthusiast from the United Kingdom</h3>
 
-- 🔭 I’m currently working on **something interesting for my company**
+- 🔭 I’m currently working on **something interesting relating to data for my company**
 
 - 👯 I’m looking to collaborate on **any project that is interesting and will bring many benefits**
 
 - 🤝 I’m looking for help with **my development upon devops**
 
-- 👨‍💻 All of my projects are available at [https://cassidyooi.notion.site/Cassidy-Ooi-Data-Science-93dfe030f00a4851b729f73fb89a4099?pvs=4](https://cassidyooi.notion.site/Cassidy-Ooi-Data-Science-93dfe030f00a4851b729f73fb89a4099?pvs=4)
+- 👨‍💻 Some of my projects can be seen at [https://cassidyooi.notion.site/Cassidy-Ooi-Data-Science-93dfe030f00a4851b729f73fb89a4099?pvs=4](https://cassidyooi.notion.site/Cassidy-Ooi-Data-Science-93dfe030f00a4851b729f73fb89a4099?pvs=4)
 
 - 📫 How to reach me **cassidyooi6@gmail.com**
 
-- ⚡ Fun fact **I think I am people person and adventurous**
+- ⚡ Fun fact **I love cooking, eating and travelling. I'm a huge fan of escape rooms, I aim to always do one anywhere I go**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
